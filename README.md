@@ -1,7 +1,8 @@
 
 ### README
 ---
-Hello, I am a computer science student and mainly program in C and C++.
+Hello, I am a computer science student and mainly program in C and C++.![](http://i.imgur.com/OUkLi.gif)
+
 ### Projects
 ---
 I am currently working on a password manager project that utilizes the OpenSSL library.
