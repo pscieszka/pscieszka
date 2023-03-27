@@ -4,7 +4,7 @@
 Hello, I am a computer science student and mainly program in C and C++.
 
 
-![](http://i.imgur.com/OUkLi.gif)
+![](http://i.imgur.com/Ssfp7.gif)
 
 ### Projects
 ---
