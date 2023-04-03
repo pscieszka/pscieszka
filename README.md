@@ -6,7 +6,11 @@ Hello, I am a computer science student and mainly program in C and C++.
 ![](https://komarev.com/ghpvc/?username=pscieszka&color=blueviolet)
 
 
-![](http://i.imgur.com/Ssfp7.gif)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,cs,dotnet,hmtl,css,py" />
+  </a>
+</p>
 
 ### Projects
 ---
