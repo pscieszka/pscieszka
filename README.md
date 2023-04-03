@@ -3,7 +3,7 @@
 ---
 Hello, I am a computer science student and mainly program in C and C++.
 
-![](https://komarev.com/ghpvc/?username=pscieszka)
+![](https://komarev.com/ghpvc/?username=pscieszka&color=blueviolet)
 
 
 ![](http://i.imgur.com/Ssfp7.gif)
