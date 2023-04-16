@@ -23,7 +23,7 @@ The password manager is a secure application that allows users to store and mana
 ![](https://badges.peiyuan.ch/leetcode/laylow28inches/solved)\
 ![](https://badges.peiyuan.ch/leetcode/laylow28inches/solved?difficulty=easy)\
 ![](https://badges.peiyuan.ch/leetcode/laylow28inches/solved?difficulty=medium)\
-![](https://badges.peiyuan.ch/leetcode/laylow28inches/solved?difficulty=hard)\
+![](https://badges.peiyuan.ch/leetcode/laylow28inches/solved?difficulty=hard)
 
 ### Contact
 ---
